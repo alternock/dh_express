@@ -4,7 +4,7 @@
 
 [Framework Express](https://github.com/expressjs/express)
 
-[nodemon (Es una libreria para autoejecutar el server)](https://github.com/remy/nodemon)
+[Nodemon (Es una libreria para autoejecutar el server)](https://github.com/remy/nodemon)
 
 ---
 
