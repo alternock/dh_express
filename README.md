@@ -1,17 +1,17 @@
 # Proyecto de estudio dh_express 😈
 
-## Lista de librerias que se emplean el proyecto
+## Lista de las librerias que se integran en el proyecto
 
 [Framework Express](https://github.com/expressjs/express)
 
-[nodemon (libreria para autoejecutar el server)](https://github.com/remy/nodemon)
+[nodemon (Es una libreria para autoejecutar el server)](https://github.com/remy/nodemon)
 
 ---
 
 1) Clonar el repositorio
 
 ```diff
-git clone url_repo
+git clone https://github.com/alternock/dh_express.git
 ```
 
 2) Luego de clonar el proyecto, hacer la instalación de las dependencias del proyecto
